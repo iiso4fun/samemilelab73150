@@ -1,9 +1,9 @@
 # samemilelab73150
 
 # Lab 7 – BigInts and Timing Cost
+ Samuel Emile  
+ 
 
-Samuel Emile  
-April 8, 2025  
 
 ---
 
@@ -35,5 +35,5 @@ The program also includes unit testing and an interactive mode for user input. I
 Make sure `samlab7.cpp`, `bigint.h`, and `doctest.h` are in the same folder.
 
 ### Compile:
-```bash
+
 g++ -std=c++11 -o lab samlab7.cpp
